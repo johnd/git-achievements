@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>John Daniels's Git Achievements</title>
+<item><title>Weaver</title><description>Investigate old branches by using git reflog</description></item>
 <item><title>Master Stone Mason (Level 9)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Investigator (Level 4)</title><description>Used git blame to annotates a file with information about how each line changed.</description></item>
 <item><title>Master Author (Level 9)</title><description>Made 2^Level commits using git commit.</description></item>
@@ -19,5 +20,4 @@
 <item><title>Master Author (Level 8)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Master Socialite (Level 7)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Apprentice Product Manager (Level 2)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
-<item><title>Apprentice Product Manager (Level 1)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 </channel></rss>
