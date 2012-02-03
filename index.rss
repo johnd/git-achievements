@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>John Daniels's Git Achievements</title>
+<item><title>Master Author (Level 10)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Blacksmith (Level 4)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Product Manager (Level 6)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Apprentice Blacksmith (Level 3)</title><description>Created a branch using git checkout -b.</description></item>
@@ -19,5 +20,4 @@
 <item><title>Product Manager (Level 5)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Apprentice Investigator (Level 2)</title><description>Used git blame to annotates a file with information about how each line changed.</description></item>
 <item><title>Product Manager (Level 4)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
-<item><title>Cherry Picker</title><description>Used git cherry-pick to add a sha from another branch into the current branch.</description></item>
 </channel></rss>
